@@ -1,6 +1,6 @@
 # Etay Ofir
 <p align="center">
-  <img src="./assets/GitHub Profile Vid.mp4" alt="Data & Systems Engineering Telemetry" width="100%">
+  <video src="assets/GitHub Profile Vid.mp4" width="100%" autoplay loop muted playsinline></video>
 </p>
 
 ## Systems & Information Engineer | Machine Learning Specialist | Intelligent Data Pipelines
