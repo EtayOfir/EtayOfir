@@ -1,4 +1,3 @@
-# Etay Ofir
 <p align="center">
   <img src="https://raw.githubusercontent.com/EtayOfir/EtayOfir/main/assets/GitHub_GIF.gif" width="100%" />
 </p>
