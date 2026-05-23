@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EtayOfir/EtayOfir/main/assets/GitHub_GIF.gif" width="100%" />
+  <video src="https://github.com/user-attachments/assets/4dbcd621-3d40-4469-8dc7-5fa41d7444fc" width="100%" autoplay loop muted playsinline></video>
 </p>
+
+
+
+
 
 ## Systems & Information Engineer | Machine Learning Specialist | Intelligent Data Pipelines
 
